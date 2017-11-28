@@ -1,3 +1,7 @@
+#---------------------------------------------------------------------------------------------
 # HelloWorld
-For first project and new ideas.
-Hopefully, will merge into a camera2 savvy app
+# For first project and new ideas.
+# Hopefully, we will merge into a camera2 savvy app, soon
+#---------------------------------------------------------------------------------------------
+# A learning experience for Paul Atkins
+#---------------------------------------------------------------------------------------------
